@@ -13,7 +13,7 @@ A PyTorch implementation of a character-level LSTM language model for creative t
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/yourusername/lstm-text-generator.git
+git clone https://github.com/rajivneupane/lstm-text-generator.git
 cd lstm-text-generator
 pip install -r requirements.txt
 ```
